@@ -1,0 +1,47 @@
+.dopole{
+    text-align: center;
+}
+
+.pole{
+    text-align: center;
+    margin: auto;
+    border-color: black;
+    border-radius: 5px;
+    padding: 20px 15px;
+    border-style: solid;
+    width: 30%;
+    font-size: 30px;
+    align-self: center;
+}
+
+.klawisze{
+    text-align: center;
+}
+
+.button{
+    background-color: white;
+    margin: black;
+    overflow: hidden;
+    margin: 20px;
+    border-color: black;
+    font-size: 50px;
+    padding: 20px;
+    height: auto;
+    width: auto;
+    border-style: solid;
+}
+
+.button:hover{
+    background-color: #CACACA;
+}
+
+.button:active{
+    color: white;
+    background-color: black;
+}
+
+.bottom{
+    width: max-content;
+    height: 200px;
+    margin: 10px;
+}
